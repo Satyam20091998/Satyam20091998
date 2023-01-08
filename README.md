@@ -1,3 +1,4 @@
+![logo](https://github.com/Satyam20091998/Satyam20091998/blob/main/wp3188100-big-data-wallpapers.png)
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">A passionate data engineer from India</h3>
 
